@@ -1,0 +1,1 @@
+# vSmartSwitch-Sonoff-Basic
